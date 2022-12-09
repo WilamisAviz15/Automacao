@@ -2,20 +2,16 @@
 
 Neste trabalho é implementada uma aplicação em Ladder, simulada no TIA Portal V15 da Siemens para uma estação de triagem modelada pela Factory IO, a fim de separar materiais de diferentes formatos para suas respectivas rampas.
 
+A imagem abaixo é do cenário utilizado no Factory IO. <br>
 ![image](https://user-images.githubusercontent.com/58791888/206717184-bfe457b6-a11c-4bee-8889-46f41af60952.png)
-A imagem acima é do cenário utilizado no Factory IO.
+<br>
 
-
-
-Materiais utilizados:
-
-
+Materiais utilizados:<br>
 ![image](https://user-images.githubusercontent.com/58791888/206719944-158cb821-80d5-492a-9683-21ebc70ed26d.png)
+<br>
 
-
-
+São considerados três tipos de materiais: Blue Raw Material, Blue product Lid e Blue product Base. Esses materiais são identificados por um sensor de visão. Em seguida conduzidos pelas esteiras até a sua respectiva rampa. <br>
 ![image](https://user-images.githubusercontent.com/58791888/206718776-1708260c-17b7-4bac-a817-3420650cbe2c.png)
-São considerados três tipos de materiais: Blue Raw Material, Blue product Lid e Blue product Base. Esses materiais são identificados por um sensor de visão. Em seguida conduzidos pelas esteiras até a sua respectiva rampa.
 
 
 Professor da disciplina:
