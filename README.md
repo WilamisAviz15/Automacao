@@ -6,8 +6,12 @@ Neste trabalho é implementada uma aplicação em Ladder, simulada no TIA Portal
 A imagem acima é do cenário utilizado no Factory IO.
 
 
+
 Materiais utilizados:
+
+
 ![image](https://user-images.githubusercontent.com/58791888/206719944-158cb821-80d5-492a-9683-21ebc70ed26d.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/58791888/206718776-1708260c-17b7-4bac-a817-3420650cbe2c.png)
